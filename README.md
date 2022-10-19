@@ -1,6 +1,6 @@
 # MEU FAVORITOS 
 
-[preview](./imagemsite.png)
+![preview](./imagemsite.png)
 
 Projeto feito por diversão e pra listar meus audiovisuais favoritos
 
