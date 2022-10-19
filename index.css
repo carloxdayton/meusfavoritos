@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium&display=swap');
+
+*{
+    border:none;
+    margin: none;
+    font-family: 'Oxanium';
+}
+
+h1 {
+    text-align: center;
+    background-color: #412234;
+    color: whitesmoke;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    display: flex;
+    align-items: center;
+}
+
+
+.anime img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: solid 5px #000;
+}
+
+.text_image{
+    padding-left: 40px;
+    font-size: large;
+    font-style: oblique;
+}
+
